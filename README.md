@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @A-childs-encyclopedia
 - 👀 I’m interested in chess and programming.
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on my fork of adobe brackets
+- 🌱 I’m currently learning nim
+- 💞️ I’m looking to collaborate on CLIcalc.nim
 
 
 <!---
