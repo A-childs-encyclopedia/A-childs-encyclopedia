@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @A-childs-encyclopedia
 - 👀 I’m interested in chess and programming.
 - 🌱 I’m currently learning nim
-- 💞️ I’m looking to collaborate on [CLIcalc.nim](https://github.com/A-childs-encyclopedia/CLIcalc.nim)
+- 💞️ I’m working on https://github.com/A-childs-encyclopedia/Beyond-All-Reason
 
 
 <!---
